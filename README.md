@@ -1,6 +1,6 @@
 # LSFB-Dashboard
 
-Creation of a dashboard that display sociolinguistic variation of French Belgium Sign Language (LSFB).
+Creation of a dashboard displaying sociolinguistic variation of French Belgium Sign Language (LSFB).
 
 Intented features: 
 
